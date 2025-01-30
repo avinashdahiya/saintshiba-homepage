@@ -97,7 +97,7 @@
     bottom: -25%;
 }
 
-/* -------------------------------section-3---------------- */
+/* -------------------------------section-3---------------------- */
 .h-812 {
     min-height: 812px;
 }
@@ -149,16 +149,15 @@
     transform: translateX(192px);
 }
 
-.Tokenomics-box {
-    background: linear-gradient(94.88deg, rgba(255, 255, 255, 0.1) 0.97%, rgba(255, 255, 255, 0) 103.14%);
+/* .Tokenomics-box 
+     background: linear-gradient(94.88deg, rgba(255, 255, 255, 0.1) 0.97%, rgba(255, 255, 255, 0) 103.14%);
     backdrop-filter: blur(32px) !important;
     padding: 16px 20px;
     border: 1px solid var(--fc-slate-gray) !important;
     border-radius: 10px;
     transition: all 400ms linear;
     width: 100%;
-    max-width: 424px;
-}
+    max-width: 424px; } */
 
 /* ------------accordion--------------- */
 .accordion {
